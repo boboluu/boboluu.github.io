@@ -239,7 +239,7 @@
 .navbar-static-top,
 .navbar-fixed-top,
 .navbar-fixed-bottom {
-  border-radius: 0;
+  border-radius: 100px;
 }
 
 .alert {
